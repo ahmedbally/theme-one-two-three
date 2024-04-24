@@ -1,11 +1,11 @@
 {
     "name": {
-        "ar": "Theme 9vpt3txg",
-        "en": "Theme 9vpt3txg"
+        "ar": "theme one two three  عربى",
+        "en": "theme one two"
     },
     "description": {
-        "ar": "https://salla.partners/themes/1869616870https://salla.partners/themes/1869616870",
-        "en": "https://salla.https://salla.partners/themes/1869616870https://salla.partners/themes/1869616870partners/themes/1869616870"
+        "ar": "asdasdasdasdasdasdsadasdasfasfdcas asdasdasdasdasdasdsadasdasfasfdcas asdasdasdasdasdasdsadasdasfasfdcas asdasdasdasdasdasdsadasdasfasfdcas",
+        "en": "asdasdasdasdasdasdsadasdasfasfdcas asdasdasdasdasdasdsadasdasfasfdcas asdasdasdasdasdasdsadasdasfasfdcas asdasdasdasdasdasdsadasdasfasfdcas"
     },
     "repository": "https://github.com/ahmedbally/theme-one-two-three",
     "features": [
@@ -342,6 +342,6 @@
             ]
         }
     ],
-    "support_url": "https://salla.partners/themes/1869616870",
+    "support_url": "https://test.test",
     "author_email": "ahmedbaly87@gmail.com"
 }
