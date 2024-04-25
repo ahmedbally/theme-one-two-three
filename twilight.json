@@ -23,7 +23,8 @@
         "component-testimonials",
         "component-square-photos",
         "component-store-features",
-        "component-youtube"
+        "component-youtube",
+        "component-fixed-banner"
     ],
     "settings": [
         {
